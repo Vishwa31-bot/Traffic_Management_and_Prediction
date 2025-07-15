@@ -44,7 +44,6 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/traffic-prediction-app.git
 cd traffic-prediction-app
 Install dependencies:
 
