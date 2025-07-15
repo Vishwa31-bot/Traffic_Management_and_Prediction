@@ -60,11 +60,13 @@ streamlit run traffic_app.py
 View in browser:
 Navigate to http://localhost:8501 in your browser.
 
-🧪 Example Prediction
-Input:
+Output:
 
-Hour: 8
+<img width="474" height="808" alt="image" src="https://github.com/user-attachments/assets/662d1b8c-5c8a-45d8-a9b9-e47d0033c3ce" />
 
-Day: Tuesday
+
+
+
+
 
 Weather: Rain
